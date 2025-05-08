@@ -1,8 +1,8 @@
 <h1>Easy-Shopping 🛍</h1>
 <br>
-<h2> Esse foi um progeto que eu aprendi no <a href="https://aulas.devclub.com.br/">DevClub</a>👨‍💻</h2>
+<h2> Esse foi um dos meus primeiros progetos que aprendi no <a href="https://aulas.devclub.com.br/">DevClub</a>👨‍💻</h2>
 <br>
-<h2> As tecnologias utilizadas no projeto</h2>
+<h2> As tecnologias utilizadas no projeto </h2>
 <p>-HTML</p>
 <p>-CSS</p>
 <br>
