@@ -1,6 +1,6 @@
 <h1>Easy-Shopping</h1>
 <br>
-<h2> Esse foi um progeto que eu aprendi no <a href="https://aulas.devclub.com.br/"</a>👨‍💻</h2>
+<h2> Esse foi um progeto que eu aprendi no <a href="https://aulas.devclub.com.br/">DevClub</a>👨‍💻</h2>
 <br>
 <br>
-<img src=""
+<img src="https://github.com/Ryan-pro10/Easy-Shopping/blob/5df4733698ad46674e0c4529e5d7cc725ca64267/img/Captura%20de%20Tela%20(2).png?raw=true">
